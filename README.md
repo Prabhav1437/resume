@@ -8,3 +8,4 @@ You can view the latest RESUME [here](./resume_main.jpg)
 
 🙌 Inspired By
 This resume design is inspired by Jake Gut's Resume Template - github.com/jakeryang/resume , which provides a sleek and minimalist format using LaTeX.
+For PDF contact me on LinkedIN or Email
