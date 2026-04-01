@@ -4,7 +4,7 @@ This repository contains the LaTeX source code for my professional resume, built
 
 ## 📌 Preview
 
-You can view the latest RESUME [here](./Prabhav Jain Resume.pdf)
+You can view the latest RESUME [here](./Prabhav%20Jain%20Resume.pdf)
 
 🙌 Inspired By
 This resume design is inspired by Jake Gut's Resume Template - github.com/jakeryang/resume , which provides a sleek and minimalist format using LaTeX.
